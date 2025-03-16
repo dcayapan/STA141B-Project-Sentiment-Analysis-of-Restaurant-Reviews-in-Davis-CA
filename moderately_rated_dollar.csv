@@ -1,0 +1,16 @@
+rating,review_count,address,cuisine,price,yelp_url
+3.8,223,"2001 2nd St, Davis, CA 95618","['Breweries', 'New American', 'Cocktail Bars']",$,https://www.yelp.com/biz/m5VrIzD0O67d-RHm1eRlIQ
+3.2,648,"204 G St, Davis, CA 95616","['Chinese', 'Asian Fusion', 'Soup']",$,https://www.yelp.com/biz/ywcWDBIgQFql2L08iawVZg
+3.3,541,"129 E St D1, Davis, CA 95616","['Taiwanese', 'Chinese', 'Noodles']",$,https://www.yelp.com/biz/gHlJcEZPBuEBHN88eDMd9g
+3.9,347,"222 D St, Ste 10, Davis, CA 95616","['Coffee & Tea', 'Breakfast & Brunch', 'Salad']",$,https://www.yelp.com/biz/jKGa-Jy_CGokiD3GMJdr0A
+3.7,459,"220 3rd St, Davis, CA 95616",['Middle Eastern'],$,https://www.yelp.com/biz/BnV6-tk01SiufBbJ7pB-9A
+3.5,529,"407 G St, Ste 4, Davis, CA 95616","['Desserts', 'Bubble Tea', 'Ramen']",$,https://www.yelp.com/biz/U0_DUIITYCDr_1ZDEx00vA
+3.7,235,"200 E St, Davis, CA 95616","['Breakfast & Brunch', 'Tacos']",$,https://www.yelp.com/biz/nuCXrzhmG84SQpZbAGApzw
+3.3,323,"640 W Covell Blvd, Davis, CA 95616","['Chinese', 'Vegetarian', 'Vegan']",$,https://www.yelp.com/biz/zaRXb20vdcnY4hMyi1ED2w
+3.5,167,"236 A St, Davis, CA 95616","['Bubble Tea', 'Juice Bars & Smoothies', 'Ramen']",$,https://www.yelp.com/biz/W737Oh1NERPNG7dV34_UzA
+3.5,654,"2191 Cowell Blvd, Ste E, Davis, CA 95618","['Cafes', 'Bubble Tea']",$,https://www.yelp.com/biz/lFxN0ZJLsE3Fe5-AIkh77w
+3.6,571,"1411 W Covell Blvd, Davis, CA 95616","['Tex-Mex', 'Tacos']",$,https://www.yelp.com/biz/NNzBiVCtdnNOAkOysGVp5g
+3.9,149,"2191 Cowell Blvd, Ste F, Davis, CA 95618","['Sandwiches', 'New American', 'Soup']",$,https://www.yelp.com/biz/h2lyOO6bi5Ii4Q5mYmbCLA
+3.7,113,"505 L St, Davis, CA 95616","['Pizza', 'Chicken Wings']",$,https://www.yelp.com/biz/yqx0ZA0IDOdZYlsNOlAHjw
+3.7,112,"1300 E Covell Blvd, Ste B, Davis, CA 95616","['Pizza', 'Chicken Wings', 'Italian']",$,https://www.yelp.com/biz/5n4BZZ3Bc_uv7h5hfcw96g
+3.7,178,"1 Shields Ave, Davis, CA 95616","['Coffee & Tea', 'Breakfast & Brunch', 'Tex-Mex']",$,https://www.yelp.com/biz/TraRlAy5trsa331IlfxreA

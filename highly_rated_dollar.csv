@@ -1,0 +1,11 @@
+rating,review_count,address,cuisine,price,yelp_url
+4.1,993,"640 W Covell Blvd, Ste E, Davis, CA 95616",['Mexican'],$,https://www.yelp.com/biz/NdAR7BkgrDm-j_1TLzqt0w
+4.2,350,"814 2nd St, Davis, CA 95616","['Bakeries', 'Pizza', 'Salad']",$,https://www.yelp.com/biz/BXGz-aDjgXENw1mfdy2hFA
+4.3,130,"130 G St, Davis, CA 95616","['Coffee & Tea', 'Cafes']",$,https://www.yelp.com/biz/5MHx6xwZcFVvbFgYvIxkdg
+4.0,584,"212 F St, Davis, CA 95616","['Pizza', 'Salad', 'Fast Food']",$,https://www.yelp.com/biz/N_BDcYgSezhveRy5Yq22Rw
+4.0,363,"206 F St, Davis, CA 95616","['Bagels', 'Coffee & Tea', 'Sandwiches']",$,https://www.yelp.com/biz/TVPBL8IpbTG85liZKkzHYA
+4.0,334,"129 E St, Ste A1, Space A-1, Davis, CA 95616",['Hot Dogs'],$,https://www.yelp.com/biz/c0yIPL1duxmhNRHEBPFDHw
+4.1,432,"616 3rd St, Davis, CA 95616","['Delis', 'Sandwiches']",$,https://www.yelp.com/biz/BdAdm9IltdNb_FG7fADPQg
+4.2,180,"618 2nd St, Davis, CA 95616","['Ice Cream & Frozen Yogurt', 'Cafes']",$,https://www.yelp.com/biz/st4UdixGjFl4NYq9CIq5TQ
+4.0,273,"521 2nd St, Davis, CA 95616","['Coffee & Tea', 'Breakfast & Brunch']",$,https://www.yelp.com/biz/_KLoq3eMDVxsS9o1PrP32w
+4.1,468,"1020 Olive Dr, Davis, CA 95616","['Fast Food', 'Burgers']",$,https://www.yelp.com/biz/bi9ZUN54a6TBS0c91fYs_g

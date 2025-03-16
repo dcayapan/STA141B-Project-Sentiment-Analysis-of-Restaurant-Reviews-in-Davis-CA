@@ -1,0 +1,29 @@
+rating,review_count,address,cuisine,price,yelp_url
+4.5,622,"500 1st St, Ste 11, Davis, CA 95616","['Burmese', 'Asian Fusion', 'Thai']",$$,https://www.yelp.com/biz/rJTD5ErARWNnmIdOkEVaKg
+4.5,579,"2151 Cowell Blvd, Ste C, Davis, CA 95618","['Dim Sum', 'Desserts', 'Noodles']",$$,https://www.yelp.com/biz/-eKTJBYo0Df5SthfrjxYxQ
+4.4,1377,"301 B St, Davis, CA 95616","['Mediterranean', 'Halal']",$$,https://www.yelp.com/biz/I2MviWrFablKCIhePw-MjA
+4.4,186,"424 G St, Davis, CA 95616","['Vietnamese', 'Noodles', 'Soup']",$$,https://www.yelp.com/biz/1QYiGDmhCQF-nlcEXSpNIA
+4.0,108,"403 G St, Davis, CA 95616",['Chinese'],$$,https://www.yelp.com/biz/Pi_0npifnlBToVXp3rG0kg
+4.6,373,"231 3rd St, Davis, CA 95616","['Beer Bar', 'Tacos']",$$,https://www.yelp.com/biz/Vl-fyND-eTXFp4K8c5amCA
+4.0,1195,"500 1st St, Ste 19, Davis, CA 95616","['Japanese', 'Sushi Bars', 'Seafood']",$$,https://www.yelp.com/biz/iLNnJRb7zgms4flTf9qteg
+4.6,546,"400 G St, Davis, CA 95616","['Poke', 'Seafood', 'Hawaiian']",$$,https://www.yelp.com/biz/PXqFYXfH_u_V_4rPf5IXXA
+4.3,869,"1601 Research Park Dr, Davis, CA 95618",['Chinese'],$$,https://www.yelp.com/biz/qqti9B1QsOFEnNhplwAgug
+4.1,106,"808 2nd St, Davis, CA 95616",['Asian Fusion'],$$,https://www.yelp.com/biz/92WT7oNfsDUE38yojQQyZA
+4.7,353,"2880 5th St, Ste 125, Davis, CA 95618",['Cantonese'],$$,https://www.yelp.com/biz/mrtP5l4_gBdetU8wKWo6ZQ
+4.2,438,"1260 Lake Blvd, Ste 267, Davis, CA 95616","['Ramen', 'Asian Fusion', 'Beer, Wine & Spirits']",$$,https://www.yelp.com/biz/boYAoGF5ZqjvkmE_UJDVXQ
+4.1,515,"417 Mace Blvd, Davis, CA 95618","['Japanese', 'Sushi Bars']",$$,https://www.yelp.com/biz/0hnY8GJeCRlNSGvkzmbS8w
+4.4,703,"505 1/2 L St, Davis, CA 95616",['Mexican'],$$,https://www.yelp.com/biz/ZGga54kHVE7tUnSZlfvITg
+4.2,165,"236 B St, Davis, CA 95616",['Pizza'],$$,https://www.yelp.com/biz/PkDJJErOl6XQiUFsj1pl_A
+4.1,167,"634 G St, Davis, CA 95616","['Bakeries', 'Desserts', 'Pizza']",$$,https://www.yelp.com/biz/P0DxZLXc-kNVu6rFOswgUg
+4.0,639,"417 Mace Blvd, Davis, CA 95618","['Chinese', 'Desserts']",$$,https://www.yelp.com/biz/k0VO4SlsDXV8YVFk3HRZxg
+4.1,459,"234 E St, Davis, CA 95616","['Indian', 'Himalayan/Nepalese', 'Seafood']",$$,https://www.yelp.com/biz/020ZLMQtsF2t7G4klDPsvw
+4.1,148,"206 E St, Davis, CA 95616",['Greek'],$$,https://www.yelp.com/biz/2xrc7y2qR7mXaN1dxIEDaQ
+4.3,648,"730 3rd St, Davis, CA 95616","['Seafood', 'Hawaiian', 'Poke']",$$,https://www.yelp.com/biz/G-2WsNWae16e88bVO5Kh6A
+4.3,456,"726 2nd St, Davis, CA 95616","['Burgers', 'American', 'Bars']",$$,https://www.yelp.com/biz/dqyX4WCSGsRRgs2miFzA7w
+4.0,103,"417 Mace Blvd, Ste I, Davis, CA 95618",['Thai'],$$,https://www.yelp.com/biz/8SGRm47hNTJyhfL9MB_TpQ
+4.2,563,"222 D St, Ste 3, Davis, CA 95616","['Coffee & Tea', 'Tea Rooms', 'Sandwiches']",$$,https://www.yelp.com/biz/Qdzx7tsNBxGPo-Sa2K9v5g
+4.2,280,"620 G St, Davis, CA 95616","['Grocery', 'Delis', 'Fruits & Veggies']",$$,https://www.yelp.com/biz/URI4y1OkYu0x1o9RT4XvTQ
+4.3,377,"825 Russell Blvd, Davis, CA 95616","['Food Trucks', 'Halal', 'Mediterranean']",$$,https://www.yelp.com/biz/pHPnraHHsM3TchlbUP3eKA
+4.4,473,"1414 E Covell Blvd, Davis, CA 95616","['Grocery', 'Fruits & Veggies', 'Sandwiches']",$$,https://www.yelp.com/biz/K1SFIxSL8GWDl8veC82V9A
+4.1,273,"1260 Lake Blvd, Ste 113, Davis, CA 95616","['Pizza', 'Sports Bars']",$$,https://www.yelp.com/biz/1Lu7Mqip_YJ3zkm9WAxT4w
+4.3,154,"409 Mace Blvd, Davis, CA 95618","['Grocery', 'Fruits & Veggies', 'Sandwiches']",$$,https://www.yelp.com/biz/G1EXec0C_Mu6Vs0fclc2sQ
